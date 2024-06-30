@@ -6,3 +6,4 @@ kimi-free-api:latest
 glm-free-api:latest
 qwen-free-api:latest
 searxng/searxng:latest
+nginx
