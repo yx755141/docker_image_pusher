@@ -1,5 +1,3 @@
-free_ask_internet:latest
-free_ask_internet_ui:latest
 chatgpt-next-web
 freegpt35:latest
 kimi-free-api:latest
